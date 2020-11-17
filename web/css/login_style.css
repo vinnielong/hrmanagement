@@ -96,7 +96,7 @@ input[type="text"], input[type="password"], input[type="email"]{
 	padding: 15px 10px 15px;
 	font-size: 14px;
 	background: transparent;
-	border: 2px solid #537b35;
+	border: 2px solid #e74c3c;
 	outline: none;
 	margin-bottom: 26px;
 	color: #fff;
@@ -144,13 +144,13 @@ ul.agileinfotickwthree a {
     font-size: 15px;
 }
 ul.agileinfotickwthree a:hover {
-    color: #537b35;
+    color: #e74c3c;
 }
 ul.agileinfotickwthree li input[type="checkbox"]+label span:first-child {
 	width: 15px;
 	height: 15px;
 	display: inline-block;
-	border: 2px solid #537b35;
+	border: 2px solid #e74c3c;
 	position: absolute;
 	top: -1px;
 	left: 20px;
@@ -281,7 +281,7 @@ input[type="checkbox"] {
 }
 .submit-w3l  input[type="submit"], .btnLogin {
 	background:#fff;
-	color:#537b35;
+	color:#e74c3c;
 }
 .submit-w3l  input[type="submit"]:hover, .btnLogin:hover {
 	background:#fff;
